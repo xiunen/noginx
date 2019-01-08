@@ -3,4 +3,4 @@ Minimal Nginx of Node implementation
 
 ## Architecture
 
-![Architecture](assets/arch.jpg)
+![Architecture](assets/arch.png)
